@@ -1,0 +1,14 @@
+START
+x: INT;
+x: INT;
+w: INT;
+
+x: BOOL;
+y: BOOL;
+z: BOOL;
+
+x:=w;
+y:=z;
+x:=y;
+
+FINISH

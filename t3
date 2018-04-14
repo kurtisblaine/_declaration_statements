@@ -1,0 +1,13 @@
+START
+
+floata: FLOAT;
+floatb: FLOAT;
+floatc: FLOAT;
+int : INT;
+
+floata := 1.2345;
+floatb := 12.5;
+floatc := 123456.22;
+int := floatc;
+
+FINISH

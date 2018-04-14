@@ -1,0 +1,17 @@
+START
+
+floata : FLOAT;
+floatb : FLOAT;
+floatc : FLOAT;
+int : INT;
+bool : BOOL;
+
+floata := 34.77;
+
+int := 5;
+
+floatb := int;
+
+floatc := .77;
+
+FINISH

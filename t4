@@ -1,0 +1,12 @@
+START 
+inta : INT;
+floata : FLOAT;
+floatb : FLOAT;
+floatc : FLOAT;
+
+inta := inta * inta;
+floata := inta + floatb;
+floatc := ( inta - inta ) / inta;
+floatb := floatb + floatc;
+
+FINISH
